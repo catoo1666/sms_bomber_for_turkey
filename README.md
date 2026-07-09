@@ -5,4 +5,13 @@ sms.py içinde apiler  d.py içinde ise kullanmak için arayüzü vardır
 destek için discord; randomgu1221
 
 
-EĞİTİM AMAÇLIDIR!!!
+
+Amaç: Bu araç sadece eğitim, araştırma ve iyi niyetli (siber güvenlik / test) amaçlar için geliştirilmiştir.
+
+Sorumluluk: Aracın kötüye kullanımı, yasa dışı faaliyetlerde kullanılması veya üçüncü şahıslara zarar vermesi durumunda tüm hukuki ve cezai sorumluluk tamamen kullanıcıya aittir.
+
+Maddi/Manevi Zararlar: Geliştirici, bu yazılımın kullanımından doğabilecek hiçbir doğrudan veya dolaylı zarardan, veri kaybından veya sistem hasarından sorumlu tutulamaz.
+
+Yasal Uyarı: Kullanıcılar, bu aracı çalıştırırken siber suçlar ve bilişim hukuku kapsamındaki (TCK Madde 243-244 gibi) tüm yerel ve uluslararası yasalara uymakla yükümlüdür.
+
+Kabul: Bu yazılımı indiren, kuran veya kullanan herkes, yukarıdaki şartları peşinen kabul etmiş sayılır.
