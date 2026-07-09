@@ -4,6 +4,16 @@ Bu sms bomber benim gibi eskiden çok araştırıp bulamayan kardeşlerim ve gel
 sms.py içinde apiler  d.py içinde ise kullanmak için arayüzü vardır
 destek için discord; randomgu1221
 
+kullanım için;
+
+git clone https://github.com/catoo1666/sms_bomber_for_turkey.git
+cd sms_bomber_for_turkey
+pip install requiements.txt
+python d.py
+
+
+
+
 
 
 Amaç: Bu araç sadece eğitim, araştırma ve iyi niyetli (siber güvenlik / test) amaçlar için geliştirilmiştir.
