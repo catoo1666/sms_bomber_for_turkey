@@ -10,8 +10,6 @@ git clone https://github.com/catoo1666/sms_bomber_for_turkey.git
 
 cd sms_bomber_for_turkey
 
-pip install requiements.txt
-
 python d.py
 
 
